@@ -24,7 +24,7 @@
     "source": "https://github.com/tastyigniter/TastyIgniter"
   },
   "require": {
-    "php": ">=7.4",
+    "php": ">=8.1",
     "composer/installers": "dev-main as 2.0",
     "tastyigniter/flame": "~1.2",
     "tastyigniter/ti-module-system": "~3.0",
